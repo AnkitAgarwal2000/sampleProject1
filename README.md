@@ -1,2 +1,2 @@
 # sampleProject1
-# I am making changes
+# I am making some changes
